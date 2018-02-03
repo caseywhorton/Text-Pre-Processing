@@ -3,10 +3,10 @@
 ## Contents
 
  + **Overview**
-  + "A quick example that can be easily applied to dataframes in machine learning problems using Python V3.0."
-  + "This is an educational code snippet that shows an improvement in coding by removing unecessary lines that save transformations for text preprocessing."
- + **Example**
-   + d
+   + "A quick example that can be easily applied to dataframes in machine learning problems using Python V3.0."
+   + "This is an educational code snippet that shows an improvement in coding by removing unecessary lines that save transformations for text preprocessing."
+   + "Useful for anybody that is doing text data preprocessing for a machine learning project, or who is interested in creating a data transformation pipeline"
+   
  + **Getting Started**
    + *_Anaconda_* with *_Jupyter_* Notebooks is my preferred choice for getting started
     + Visit www.anaconda.com and follow the instructions
@@ -18,9 +18,8 @@
      + Visit www.jupyter.org/install to get started
   
  + **Files**
- 
-  + *_text+pre+processing.ipynb_*: Python notebook with markdown text
-  + *_text+pre+processing.py_*: Python script file
+   + *_text+pre+processing.ipynb_*: Python notebook with markdown text
+   + *_text+pre+processing.py_*: Python script file
   
  + **Supporting Materials**
    + Blog post on subject: www.caseywhorton.wordpress.com
