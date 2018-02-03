@@ -18,8 +18,8 @@
      + Visit www.jupyter.org/install to get started
   
  + **Files**
-   + *_text+pre+processing.ipynb_*: Python notebook with markdown text
-   + *_text+pre+processing.py_*: Python script file
+   + *_text+pre+process+pipeline.ipynb_*: Python notebook with markdown text
+   + *_text+pre+process+pipeline.py_*: Python script file
   
  + **Supporting Materials**
    + Blog post on subject: www.caseywhorton.wordpress.com
