@@ -9,13 +9,13 @@
    
  + **Getting Started**
    + *_Anaconda_* with *_Jupyter_* Notebooks is my preferred choice for getting started
-    + Visit www.anaconda.com and follow the instructions
+     + Visit www.anaconda.com and follow the instructions
    + Or, you can install Python and Juptyer Notebooks independently on your machine
-    + Python Version 3.0
-     + As of 2/3/2018, unsure of any nuances that may break the code in Python 2.7.  Any insights is welcome.
-     + Visit for a download of Python Version 3.0 https://www.python.org/downloads/
-    + Jupyter Notebooks
-     + Visit www.jupyter.org/install to get started
+     + Python Version 3.0
+       + As of 2/3/2018, unsure of any nuances that may break the code in Python 2.7.  Any insights is welcome.
+       + Visit for a download of Python Version 3.0 https://www.python.org/downloads/
+     + Jupyter Notebooks
+       + Visit www.jupyter.org/install to get started
   
  + **Files**
    + *_text+pre+process+pipeline.ipynb_*: Python notebook with markdown text
