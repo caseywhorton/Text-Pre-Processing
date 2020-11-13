@@ -5,9 +5,6 @@
 # 
 # ## A quick example that can be easily applied to dataframes in machine learning problems using Python V3.0
 
-# In[39]:
-
-
 # Import necessary packages
 
 import numpy as np
@@ -23,10 +20,6 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.feature_selection import chi2
 from sklearn.feature_selection import SelectKBest
 
-
-# In[40]:
-
-
 # Import Natural language Toolkit example data and 'stopwords' set
 
 from nltk.corpus import movie_reviews
@@ -35,17 +28,9 @@ from nltk.corpus import stopwords
 
 # ### Get the _Movie Reviews_ Data into a Pandas DataFrame
 
-# In[41]:
-
-
 docs = [(str(movie_reviews.raw(fileid)), category)
              for category in movie_reviews.categories()
              for fileid in movie_reviews.fileids(category)]
-
-
-# In[42]:
-
-
 reviews = pd.DataFrame(docs)
 reviews.columns=('X','y')
 
@@ -54,11 +39,6 @@ reviews.columns=('X','y')
 bin_encoder=LabelEncoder()
 reviews.y=bin_encoder.fit_transform(reviews.y)
 
-
-# In[43]:
-
-
-reviews.head(5)
 
 
 # ### Edit the _stopwords_ to include more words
